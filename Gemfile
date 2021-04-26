@@ -32,6 +32,8 @@ gem 'rolify'
 
 gem 'cancancan'
 
+gem 'uglifier'
+
 gem 'immutable-struct'
 
 gem 'sidekiq'
